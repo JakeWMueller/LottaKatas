@@ -1,4 +1,4 @@
-Markup : * Links to codewars problems that were answered in 8 kyu
+Markup : * Links to codewars problems that were answered with JavaScript in 8 kyu
             * Keep Hydrated!
                 * https://www.codewars.com/kata/582cb0224e56e068d800003c/javascript
             * Volume of a Cuboid
