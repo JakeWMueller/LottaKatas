@@ -7,4 +7,7 @@ Markup : * Links to codewars problems that were answered with JavaScript at 7 ky
                 * https://www.codewars.com/kata/563b662a59afc2b5120000c6
             * Narcissistic Numbesr
                 * https://www.codewars.com/kata/56b22765e1007b79f2000079
+            * Find the divisors!
+                * https://www.codewars.com/kata/544aed4c4a30184e960010f4
+                
             
