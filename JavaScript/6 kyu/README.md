@@ -7,4 +7,6 @@ Markup : * Links to codewars problems that were answered with JavaScript at 6 ky
                 * https://www.codewars.com/kata/55c45be3b2079eccff00010f
             * Does my number look big in this?
                 * https://www.codewars.com/kata/5287e858c6b5a9678200083c
+            * Stop gninnipS My sdroW!
+                * https://www.codewars.com/kata/5264d2b162488dc400000001
                 
