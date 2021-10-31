@@ -9,5 +9,6 @@ Markup : * Links to codewars problems that were answered with JavaScript at 7 ky
                 * https://www.codewars.com/kata/56b22765e1007b79f2000079
             * Find the divisors!
                 * https://www.codewars.com/kata/544aed4c4a30184e960010f4
-                
+            * Sum of two lowest positive integers
+                * https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/javascript
             
